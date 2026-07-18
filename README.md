@@ -3,6 +3,7 @@ Investigating a Suspicious Login Alert
 I put this write‑up together as a practice investigation to sharpen my SOC triage workflow. It’s based on the kind of alert I handled during my cybersecurity internship, but I recreated the scenario so I could walk through it more slowly and document each step. It’s not meant to be perfect — just realistic and useful.
 
 **Scenario**
+
 A SIEM flagged a successful login from an unusual foreign location for user j.smith.
 The login happened at 3:14 AM EST from an IP geolocated in Prague, Czech Republic.
 The user normally logs in from Philadelphia during business hours.
