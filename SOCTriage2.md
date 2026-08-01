@@ -1,6 +1,6 @@
 ## Scenario 2
 Step 1 — Quick Triage
-A second alert came in for the same user, j.smith, about 20 minutes after the Prague login incident. This one wasn’t an authentication event — it was flagged as:
+A second alert came in for the same user, j.smith. It was flagged as:
 
 Alert category: “Suspicious File Download Activity.”
 
